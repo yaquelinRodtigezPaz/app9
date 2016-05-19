@@ -29,7 +29,7 @@ function Detente(){
 	}
 }
 //Correcto:Toma una captura de la aceleracion
-function Correcto(aceleration){
+function Correcto(acceleration){
 	var element=document.getElementById('acelerometro');
 	
 	element.innerHTML='Aceleracion en X: '+acceleration.x+'<br/>'+
